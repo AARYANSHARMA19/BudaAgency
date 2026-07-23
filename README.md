@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 The public marketing, booking, and contact flows work in explicit demo mode without external credentials. Demo mode does not pretend to sync a real Google Calendar; it returns a demo booking reference instead.
 
-## Verify the build
+## Verify the build 
 
 ```bash
 npm run typecheck
